@@ -7,3 +7,5 @@ demo folder to show github functionalities
 
 ## contributors
 ### new contributor ujjwal
+### new contributer - priya
+
